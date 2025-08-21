@@ -2,7 +2,7 @@
 
 This project is a **real-time data stream processor** written in C++17.  
 It simulates ingesting data streams, processing them with lightweight algorithms,  
-and monitoring throughput — useful for demonstrating low-latency systems.
+and monitoring throughput useful for demonstrating low-latency systems.
 
 ## Features
 - Multithreading (std::thread, std::mutex)
